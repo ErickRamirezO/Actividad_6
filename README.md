@@ -7,7 +7,8 @@
   
 
 # Ejecutar la app  
-1.- Descargar o clonar el repositorio y ubicarse en la carpeta raiz del proyecto (Actividad_6-master)
+1.- Descargar o clonar el repositorio y ubicarse en la carpeta raiz del proyecto (Actividad_6-master)  
+
 2.- Abrir el proyecto con Visual Studio Code y ejecutar el siguiente comando desde la terminal
 ```bash
 dotnet run
